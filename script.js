@@ -1,3 +1,3 @@
 
-let Array=["Inza",25,true,"Assam","India"];
+const Array=["Inza",25,true,"Assam","India"];
 console.log(Array);
