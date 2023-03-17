@@ -1,3 +1,3 @@
 
-const Array=["Inza",25,true,"Assam","India"];
-console.log(Array);
+const yourArray=['one', 2, 'three', true, false, undefined, nul];
+console.log(yourArray.length);
