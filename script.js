@@ -1,3 +1,2 @@
 
-const yourArray=['one', 2, 'three', true, false, undefined, nul];
-console.log(yourArray.length);
+let yourArray=["Rahul", 26, true,"Simran", 35];
